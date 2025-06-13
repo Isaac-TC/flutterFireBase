@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276158793060",
+    "project_id": "fluteerfirebase",
+    "storage_bucket": "fluteerfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276158793060:android:bf5651a46a1b69c2b46671",
+        "android_client_info": {
+          "package_name": "com.example.actividad_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASU72cTGkCo86DwvDxOk3nhxPJtYTCEnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276158793060:android:88b98c039fa306a7b46671",
+        "android_client_info": {
+          "package_name": "com.example.actividada_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASU72cTGkCo86DwvDxOk3nhxPJtYTCEnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
