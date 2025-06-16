@@ -56,14 +56,19 @@ class _LoginScreenState extends State<LoginScreen> {
       body: Stack(
         children: [
           // Fondo
-          Container(
-            decoration: const BoxDecoration(
-              image: DecorationImage(
-                image: AssetImage("assets/images/pexels-photo-5466785.jpeg"),
-                fit: BoxFit.cover,
-              ),
-            ),
-          ),
+         Container(
+  height: double.infinity,
+  width: double.infinity,
+  decoration: const BoxDecoration(
+    image: DecorationImage(
+      image: AssetImage("assets/images/descarga.jpeg"),
+      fit: BoxFit.cover,
+      alignment: Alignment.center,
+    ),
+  ),
+),
+
+
           // Contenido
           Center(
             child: SingleChildScrollView(
